@@ -1,0 +1,7 @@
+To find average of two numbers
+
+psuedo code:
+Input number1
+Input number2
+Sum = number1+number2
+Average = Sum/2
